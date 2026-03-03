@@ -79,7 +79,7 @@ The dashboard provides business insights through KPIs, dynamic filtering, and ad
 - Interactive Dashboard Layout
 - Color Encoding by Performance
 ---
-![alt text](<Screenshot 2026-03-04 010904.png>)
+![alt text](<Screenshot 2026-03-04 010816.png>)
 ## 🛠 Tools Used
 - Tableau Desktop
 - Tableau Public
