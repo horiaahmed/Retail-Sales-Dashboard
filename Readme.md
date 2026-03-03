@@ -51,8 +51,8 @@ The dashboard provides business insights through KPIs, dynamic filtering, and ad
 - Filter Actions (click to filter visuals)
 - Navigation Buttons (Overview ↔ Details)
 - Show/Hide Containers
-- Dynamic Titles
-![![alt text](<Screenshot 2026-03-04 010816.png>)]
+
+![alt text](<Screenshot 2026-03-04 010816.png>)
 ---
 
 # 📍 Dashboard 2: Retail Sales Details
@@ -77,7 +77,7 @@ The dashboard provides business insights through KPIs, dynamic filtering, and ad
 - Map Visualization
 - Interactive Dashboard Layout
 - Color Encoding by Performance
-![![alt text](<Screenshot 2026-03-04 010816.png>)]
+![alt text](<Screenshot 2026-03-04 010816.png>)
 ---
 
 ## 🛠 Tools Used
